@@ -1,0 +1,27 @@
+@keyframes slide {
+    0% {
+      opacity: 0;
+      transform: translateX(100%);
+    }
+    10% {
+      opacity: 1;
+      transform: translateX(0);
+    }
+    30% {
+      opacity: 1;
+      transform: translateX(0);
+    }
+    40% {
+      opacity: 0;
+      transform: translateX(-100%);
+    }
+    100% {
+      opacity: 0;
+      transform: translateX(-100%);
+    }
+  }
+  
+  .animate-slide {
+    animation: slide 5s infinite; 
+    opacity: 0;
+  }

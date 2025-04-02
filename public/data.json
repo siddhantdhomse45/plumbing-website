@@ -1,0 +1,594 @@
+{
+  "guarantee": {
+    "title": "The Priceless Service You Can Afford And Trust.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "guaranteeText": "100% Satisfaction Guarantee",
+    "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/07/cheerful-male-plumber-holds-wrench-and-plunger-2021-08-28-02-49-30-JXEAURY.jpg",
+    "videoUrl": "https://www.youtube.com/watch?v=your-video-id",
+    "services": [
+      "24/7 Emergency Plumbing Service",
+      "General Plumbing Maintenance"
+    ],
+    "features": [
+      {
+        "icon": "https://cdn-icons-png.flaticon.com/512/2331/2331949.png",
+        "label": "Affordable Pricing"
+      },
+      {
+        "icon": "https://cdn-icons-png.flaticon.com/512/2920/2920314.png",
+        "label": "Plumbing Experts"
+      }
+    ]
+  },
+
+  "expertise": {
+    "sectionTitle": "Our Expertise",
+    "mainTitle": "Dedicated To Excellence And Service.",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in vestibulum arcu. Sed ultricies lectus non vulputate scelerisque. Morbi eu nisl quis massa efficitur.",
+    "buttonText": "→ Discover More",
+    "services": [
+      {
+        "title": "Home Service",
+        "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/07/male-plumber-hands-repairing-pipe-under-sink-2022-03-24-16-02-46-T8E3TZP.jpg"
+      },
+      {
+        "title": "Commercial Service",
+        "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/07/plumber-in-uniform-changes-faucet-in-the-kitchen-2021-08-28-02-49-27-8YY2ZB5.jpg"
+      },
+      {
+        "title": "Enterprise Service",
+        "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/07/young-caucasian-male-worker-fixing-tubes-under-kit-2022-02-22-05-13-40-HLW4XHF.jpg"
+      }
+    ]
+  },
+
+  "better": {
+    "sectionTitle": "Why We Are Better",
+    "mainTitle": "Plumbing Done Right. Guaranteed!",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in vestibulum arcu. Sed ultricies lectus non vulputate scelerisque. Morbi eu nisl quis massa efficitur.",
+    "benefits": [
+      "You approve the price before we start the job",
+      "We treat your property like our own",
+      "We offer options for pricing on every repair",
+      "Expert, guaranteed workmanship"
+    ],
+    "features": [
+      {
+        "title": "Trusted Company",
+        "icon": "⭐",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dolor eu dui elementum."
+      },
+      {
+        "title": "Experienced",
+        "icon": "👷",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dolor eu dui elementum."
+      },
+      {
+        "title": "Certified Worker",
+        "icon": "📜",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dolor eu dui elementum."
+      },
+      {
+        "title": "24/7 Support",
+        "icon": "💬",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dolor eu dui elementum."
+      }
+    ]
+  },
+
+  "testimonials": [
+    {
+      "quote": "Kangpipa in vestibulum arcu. Sed ultricies lectus non vulputate scelerisque. Morbi eu nisl quis massa efficitur semper nec in massa.",
+      "name": "Mark William",
+      "role": "Business Manager",
+      "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/07/testimonial-1.png"
+    },
+    {
+      "quote": "Best plumbing service I have ever used. Professional, on time, and affordable! Highly recommended.",
+      "name": "Jessica Parker",
+      "role": "Homeowner",
+      "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/07/testimonial-2.png"
+    },
+    {
+      "quote": "I had a great experience with their team. The plumber was knowledgeable and resolved my issue quickly.",
+      "name": "Daniel Smith",
+      "role": "Project Manager",
+      "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/07/testimonial-3.png"
+    }
+  ],
+
+  "projects": [
+    {
+      "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/07/pipes-need-to-be-maintained-young-repairman-prof-2022-02-22-05-13-27-K3R37NH.jpg",
+      "alt": "General Plumbing"
+    },
+    {
+      "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/07/plumber-in-uniform-changes-faucet-in-the-kitchen-2021-08-28-02-49-27-8YY2ZB5.jpg",
+      "alt": "Faucet & Leak Repair"
+    },
+    {
+      "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/07/male-plumber-repairing-sink-pipe-in-kitchen-2022-03-24-16-02-29-9V56XFX.jpg",
+      "alt": "Installation and Repairing"
+    },
+    {
+      "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/07/young-caucasian-male-worker-fixing-tubes-under-kit-2022-02-22-05-13-40-HLW4XHF.jpg",
+      "alt": "Drain Cleaning"
+    }
+  ],
+
+  "services": [
+    {
+      "icon": "🛠️",
+      "title": "Plumber Services",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec."
+    },
+    {
+      "icon": "🔧",
+      "title": "Services & Repairs",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec."
+    },
+    {
+      "icon": "🚰",
+      "title": "Sewer Repair",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec."
+    },
+    {
+      "icon": "🪠",
+      "title": "Drain Cleaning",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec."
+    },
+    {
+      "icon": "🚽",
+      "title": "Toilet Setup",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec."
+    },
+    {
+      "icon": "🔩",
+      "title": "Installation & Replace",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec."
+    },
+    {
+      "icon": "🚿",
+      "title": "Faucet & Leak Repair",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec."
+    },
+    {
+      "icon": "🔥",
+      "title": "Water Heaters",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec."
+    }
+  ],
+
+  "stats": [
+    { "value": 150, "suffix": "+", "label": "Certified Expert" },
+    { "value": 13, "suffix": "K", "label": "Projects Done" },
+    { "value": 27, "suffix": "K", "label": "Happy Customers" },
+    { "value": 25, "suffix": "+", "label": "Years Experience" }
+  ],
+
+  "supportOptions": [
+    {
+      "id": 1,
+      "icon": "FaComments",
+      "title": "Sales Support",
+      "description": "Our team is ready to assist you with any inquiries about our products and services.",
+      "buttonText": "Chat Us",
+      "buttonLink": "#"
+    },
+    {
+      "id": 2,
+      "icon": "FaEnvelope",
+      "title": "Ticket Support",
+      "description": "Submit a support ticket, and we’ll get back to you as soon as possible.",
+      "buttonText": "Send Ticket",
+      "buttonLink": "#"
+    },
+    {
+      "id": 3,
+      "icon": "FaQuestionCircle",
+      "title": "Help Center",
+      "description": "Visit our help center for FAQs and detailed support guides.",
+      "buttonText": "Contact",
+      "buttonLink": "#"
+    }
+  ],
+
+  "blogPosts": [
+    {
+      "id": 1,
+      "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/07/young-caucasian-male-worker-fixing-tubes-under-kit-2022-02-22-05-13-40-HLW4XHF.jpg",
+      "title": "8 Most Common Plumbing Problems",
+      "author": "RomeTheme",
+      "date": "August 5, 2022",
+      "description": "Learn about the most frequent plumbing problems that homeowners face and how to address them effectively.",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/07/side-view-of-handyman-technician-using-screwdrive-2022-03-07-19-09-24-6EJ78SW.jpg",
+      "title": "General Maintenance For Your Water Heater",
+      "author": "RomeTheme",
+      "date": "August 5, 2022",
+      "description": "Regular maintenance ensures your water heater stays efficient and lasts longer. Here are some essential tips.",
+      "link": "#"
+    },
+    {
+      "id": 3,
+      "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/08/cheerful-male-plumber-holds-wrench-and-plunger-2021-08-28-02-49-30-JXEAURY-a.jpg",
+      "title": "Choosing The Right Plumber For Your Job",
+      "author": "RomeTheme",
+      "date": "August 5, 2022",
+      "description": "Selecting the best plumber can save you time and money. Here's how to find a skilled professional for your needs.",
+      "link": "#"
+    }
+  ],
+
+  "serviceDetails": {
+    "hero": {
+      "title": "Service Details",
+      "backgroundImage": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/08/plumbing-and-drawings-construction-still-life-2021-09-01-23-17-43-PGKRTJJ.jpg"
+    },
+    "serviceOverview": {
+      "title": "Drain Cleaning Service",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in vestibulum arcu. Sed ultricies lectus non vulputate scelerisque. Morbi eu nisl quis massa efficitur semper nec in massa. Nulla id tempor lacus.",
+      "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/08/young-caucasian-male-worker-fixing-tubes-under-kit-2022-02-22-05-13-40-HLW4XHF-a.jpg"
+    },
+    "detailedDescription": {
+      "paragraphs": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dolor eu dui elementum hendrerit in sed metus. Sed consectetur nunc luctus quam faucibus rhoncus.",
+        "Quisque sit amet dolor lobortis, dignissim magna ut, tincidunt nulla. Sed nec nibh nec augue egestas porttitor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      ],
+      "features": [
+        "Habitat laoreet iaculis",
+        "Massa est gravida",
+        "Vivamus augue tempus",
+        "Dignissim finibus fermentum"
+      ]
+    },
+    "otherServices": [
+      "Sewer Repair",
+      "General Plumbing",
+      "Toilet Setup",
+      "Faucet & Leak Repair",
+      "Water Heaters"
+    ],
+    "promo": {
+      "title": "Discount Up To 40% For First Installation",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in vestibulum arcu. Sed ultricies lectus non vulputate scelerisque.",
+      "backgroundImage": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/08/male-plumber-using-wrench-to-fix-leaking-sink-in-h-2021-08-27-08-40-13-C5G6NB2.jpg"
+    }
+  },
+
+  "pricingPlans": [
+    {
+      "id": 1,
+      "title": "Home Service",
+      "price": 45,
+      "duration": "month",
+      "description": "Affordable plumbing services for homeowners.",
+      "features": [
+        "General Plumbing Service",
+        "Get 10% OFF All Parts",
+        "1 Month Maintenance",
+        "24/7 Customer Support"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Commercial Service",
+      "price": 60,
+      "duration": "month",
+      "description": "Comprehensive plumbing solutions for businesses.",
+      "features": [
+        "General Plumbing Service",
+        "Get 10% OFF All Parts",
+        "1 Month Maintenance",
+        "24/7 Customer Support"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Enterprise Service",
+      "price": 80,
+      "duration": "month",
+      "description": "Best plumbing service package for large enterprises.",
+      "features": [
+        "General Plumbing Service",
+        "Get 10% OFF All Parts",
+        "1 Month Maintenance",
+        "24/7 Customer Support"
+      ]
+    }
+  ],
+  "banner": {
+    "title": "Pricing Plans",
+    "backgroundImage": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/07/male-plumber-and-female-customer-in-the-kitchen-2021-08-28-02-49-27-EKTSSW7.jpg"
+  },
+  "intro": {
+    "title": "Best Maintenance Plans",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in vestibulum arcu. Sed ultricies lectus non vulputate scelerisque."
+  },
+
+  "banner1": {
+    "backgroundImage": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/08/plumber-worker-adjusting-water-and-sewage-system-e-2021-08-29-10-19-50-MKSHNS5.jpg",
+    "title": "Projects"
+  },
+  "intro1": {
+    "sectionTitle": "Our Projects",
+    "mainTitle": "Some Projects We Have Done",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in vestibulum arcu. Sed ultricies lectus non vulputate scelerisque. Morbi eu nisl quis massa efficitur."
+  },
+  "projects1": [
+    {
+      "id": 1,
+      "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/07/pipes-need-to-be-maintained-young-repairman-prof-2022-02-22-05-13-27-K3R37NH.jpg",
+      "alt": "General Plumbing"
+    },
+    {
+      "id": 2,
+      "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/07/plumber-in-uniform-changes-faucet-in-the-kitchen-2021-08-28-02-49-27-8YY2ZB5.jpg",
+      "alt": "Faucet & Leak Repair"
+    },
+    {
+      "id": 3,
+      "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/07/male-plumber-repairing-sink-pipe-in-kitchen-2022-03-24-16-02-29-9V56XFX.jpg",
+      "alt": "Installation and Repairing"
+    },
+    {
+      "id": 4,
+      "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/07/young-caucasian-male-worker-fixing-tubes-under-kit-2022-02-22-05-13-40-HLW4XHF.jpg",
+      "alt": "Drain Cleaning"
+    },
+    {
+      "id": 5,
+      "image": "http://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/08/partial-view-of-male-plumber-using-plunger-and-cle-2021-08-30-02-15-55-JGX48K8.jpg",
+      "alt": "Drain Cleaning"
+    },
+    {
+      "id": 6,
+      "image": "http://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/08/wrench-always-with-you-worker-set-up-electric-hea-2021-09-03-20-52-48-A9U8QRK.jpg",
+      "alt": "Water Heater"
+    }
+  ],
+
+  "banner2": {
+    "backgroundImage": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/08/checking-drain-2021-08-27-09-42-08-96ZYLQU.jpg",
+    "title": "Project Details"
+  },
+  "project": {
+    "title": "Water Heater Service",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in vestibulum arcu. Sed ultricies lectus non vulputate scelerisque. Morbi eu nisl quis massa efficitur semper nec in massa. Nulla id tempor lacus.",
+    "mainImage": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/08/wrench-always-with-you-worker-set-up-electric-hea-2021-09-03-20-52-48-A9U8QRK-a.jpg",
+    "videoThumbnail": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/08/wrench-always-with-you-worker-set-up-electric-hea-2021-09-03-20-52-48-A9U8QRK-a.jpg",
+    "details": {
+      "client": "Mark William",
+      "date": "May 2022",
+      "category": "Water Heater Service",
+      "location": "Pekanbaru, Riau"
+    },
+    "content": {
+      "paragraph1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dolor eu dui elementum hendrerit in sed metus. Sed consectetur nunc luctus quam faucibus rhoncus. Quisque sit amet dolor lobortis, dignissim magna ut, tincidunt nulla. Sed nec nibh nec augue egestas porttitor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus varius augue eleifend arcu scelerisque, id dignissim eros mattis. Morbi congue vestibulum erat sit amet gravida.",
+      "paragraph2": "Sed consectetur nunc luctus quam faucibus rhoncus. Quisque sit amet dolor lobortis, dignissim magna ut, tincidunt nulla."
+    },
+    "contentImage": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/07/side-view-of-handyman-technician-using-screwdrive-2022-03-07-19-09-24-6EJ78SW.jpg",
+    "checklist": [
+      "Habitant laoreet iaculis",
+      "Massa est gravida",
+      "Vivamus augue tempus",
+      "Dignissim finibus fermentum"
+    ]
+  },
+
+
+    "teamMembers": [
+      {
+        "id": 1,
+        "name": "Mark William",
+        "role": "Plumber",
+        "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/08/plumber-shows-pipe-wrenches-in-plumbering-store-2021-08-27-09-53-46-4CZ3E5S.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Frank Cobam",
+        "role": "Kangpipa Founder",
+        "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/08/handsome-plumber-holding-monkey-wrench-and-looking-2021-08-29-22-50-03-BS6CHUU.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Mark William",
+        "role": "Plumber",
+        "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/08/typographer-portrait-at-the-manufacturing-2021-12-23-15-33-12-M3347FP.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Mark William",
+        "role": "Plumber",
+        "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/08/plumber-in-uniform-holds-wrench-handyman-2021-08-26-16-26-54-M29UADW.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Matt Skibs",
+        "role": "Plumber",
+        "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/08/smiling-technician-servicing-the-house-heating-sys-2022-03-07-19-09-26-CEYSWA4-a.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Mark William",
+        "role": "Plumber",
+        "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/08/cheerful-male-plumber-holds-wrench-and-plunger-2021-08-28-02-49-30-JXEAURY-b.jpg"
+      }
+    ],
+
+    
+      "blogPosts1": [
+        {
+          "id": 1,
+          "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/07/young-caucasian-male-worker-fixing-tubes-under-kit-2022-02-22-05-13-40-HLW4XHF.jpg",
+          "title": "8 Most Common Plumbing Problems",
+          "author": "rometheme",
+          "date": "August 5, 2022",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dolor eu dui elementum...",
+          "link": "#"
+        },
+        {
+          "id": 2,
+          "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/07/side-view-of-handyman-technician-using-screwdrive-2022-03-07-19-09-24-6EJ78SW.jpg",
+          "title": "General Maintenance For Your Water Heater",
+          "author": "rometheme",
+          "date": "August 5, 2022",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dolor eu dui elementum...",
+          "link": "#"
+        },
+        {
+          "id": 3,
+          "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/08/cheerful-male-plumber-holds-wrench-and-plunger-2021-08-28-02-49-30-JXEAURY-a.jpg",
+          "title": "Choosing The Right Plumber For Your Job",
+          "author": "rometheme",
+          "date": "August 5, 2022",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dolor eu dui elementum...",
+          "link": "#"
+        },
+        {
+          "id": 4,
+          "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/07/male-plumber-repairing-sink-pipe-in-kitchen-2022-03-24-16-02-29-9V56XFX.jpg",
+          "title": "Tips For Cleaning Your Kitchen Drains",
+          "author": "rometheme",
+          "date": "August 5, 2022",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dolor eu dui elementum...",
+          "link": "#"
+        },
+        {
+          "id": 5,
+          "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/08/professional-plumber-unclogging-a-sink-2021-09-02-16-30-58-7WUGHKB.jpg",
+          "title": "Steps to Prevent a Leaky Bathroom Faucet",
+          "author": "rometheme",
+          "date": "August 5, 2022",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dolor eu dui elementum...",
+          "link": "#"
+        },
+        {
+          "id": 6,
+          "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/07/plumber-in-uniform-changes-faucet-in-the-kitchen-2021-08-28-02-49-27-8YY2ZB5.jpg",
+          "title": "Choosing the Right Bathroom Sink",
+          "author": "rometheme",
+          "date": "August 5, 2022",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dolor eu dui elementum...",
+          "link": "#"
+        }
+      ],
+
+      
+        "singlePost": {
+          "id": 1,
+          "title": "8 Most Common Plumbing Problems",
+          "heroImage": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/08/plumbing-and-drawings-construction-still-life-2021-08-30-15-35-35-PKSKGRU-a.jpg",
+          "mainImage": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/07/young-caucasian-male-worker-fixing-tubes-under-kit-2022-02-22-05-13-40-HLW4XHF.jpg",
+          "content": {
+            "paragraphs": [
+              "Vivamus cursus dui non malesuada interdum. Vestibulum in sagittis massa. Nullam id diam semper, suscipit nulla et, vestibulum risus. Vestibulum vulputate sapien in nibh maximus, a feugiat justo vestibulum.",
+              "Maecenas ut volutpat leo, sed hendrerit urna. Sed eget vestibulum dolor. Donec bibendum eu sapien at interdum. Donec aliquam malesuada hendrerit.",
+              "Luctus gravida. Donec quam lacus, lacinia ut enim eget, elementum vehicula turpis. Praesent lorem neque, finibus tincidunt molestie fringilla, facilisis tempus sapien. Nunc at placerat massa. Cras nec sem urna. Etiam eu mauris sit amet erat efficitur blandit non egestas tellus. Mauris suscipit lorem vitae consequat consequat. Nulla eleifend nibh nec ipsum porta, eu iaculis ligula egestas. In varius diam quis libero condimentum volutpat ac ac libero. Sed nec justo vitae erat cursus porttitor. Duis ultricies facilisis enim, in bibendum nisi varius vel. Curabitur id auctor tellus, vel vehicula lacus."
+            ],
+            "bulletPoints": [
+              "Suspendisse interdum vehicula turpis.",
+              "Vestibulum ante ipsum primis in faucibus.",
+              "Fusce pellentesque eros vitae sagittis.",
+              "Fusce pellentesque eros vitae sagittis."
+            ],
+            "sideImage": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/07/male-plumber-in-uniform-installing-drain-pipe-2021-08-28-02-49-31-JF85MSE.jpg"
+          },
+          "helpBox": {
+            "title": "Need Any Help?",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+            "buttonText": "Contact Us",
+            "backgroundImage": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/07/male-plumber-and-female-customer-in-the-kitchen-2021-08-28-02-49-27-EKTSSW7-a.jpg"
+          }
+        },
+        "latestPosts": [
+          {
+            "id": 1,
+            "title": "8 Most Common Plumbing Problems",
+            "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/07/young-caucasian-male-worker-fixing-tubes-under-kit-2022-02-22-05-13-40-HLW4XHF.jpg"
+          },
+          {
+            "id": 2,
+            "title": "General Maintenance For Your Water Heater",
+            "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/07/side-view-of-handyman-technician-using-screwdrive-2022-03-07-19-09-24-6EJ78SW.jpg"
+          },
+          {
+            "id": 3,
+            "title": "Choosing the Right Plumber For Your Job",
+            "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/08/cheerful-male-plumber-holds-wrench-and-plunger-2021-08-28-02-49-30-JXEAURY-a.jpg"
+          },
+          {
+            "id": 4,
+            "title": "Tips For Cleaning Your Kitchen Drains",
+            "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/07/male-plumber-repairing-sink-pipe-in-kitchen-2022-03-24-16-02-29-9V56XFX.jpg"
+          },
+          {
+            "id": 5,
+            "title": "Steps to Prevent a Leaky Bathroom Faucet",
+            "image": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/07/male-plumber-repairing-sink-pipe-in-kitchen-2022-03-24-16-02-29-9V56XFX.jpg"
+          }
+        ],
+
+        
+          "services1": [
+            {
+              "icon": "🛠️",
+              "title": "Plumber Services",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec."
+            },
+            {
+              "icon": "🔧",
+              "title": "Services & Repairs",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec."
+            },
+            {
+              "icon": "🚰",
+              "title": "Sewer Repair",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec."
+            },
+            {
+              "icon": "🪠",
+              "title": "Drain Cleaning",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec."
+            },
+            {
+              "icon": "🚽",
+              "title": "Toilet Setup",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec."
+            },
+            {
+              "icon": "🔩",
+              "title": "Installation & Replace",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec."
+            },
+            {
+              "icon": "🚿",
+              "title": "Faucet & Leak Repair",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec."
+            },
+            {
+              "icon": "🔥",
+              "title": "Water Heaters",
+              "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec."
+            }
+          ],
+          "heroSection": {
+            "backgroundImage": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/08/cropped-shot-of-technician-plumber-in-protective-2022-03-07-19-09-30-9KQSPG3.jpg",
+            "title": "Services"
+          },
+          "serviceSection": {
+            "title": "Professional Plumbing, Friendly Service",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in vestibulum arcu. Sed ultricies lectus non vulputate scelerisque. Morbi eu nisl quis massa efficitur semper nec in massa.",
+            "subtitle": "Our Services"
+          },
+          "promoSection": {
+            "backgroundImage": "https://mhkit.rometheme.pro/kangpipa/wp-content/uploads/sites/9/2022/08/male-plumber-using-wrench-to-fix-leaking-sink-in-h-2021-08-27-08-40-13-C5G6NB2.jpg",
+            "title": "Discount Up To 40% For First Installation",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in vestibulum arcu. Sed ultricies lectus non vulputate scelerisque.",
+            "buttonText": "Claim Promo",
+            "subtitle": "Promo"
+          }      }
+
